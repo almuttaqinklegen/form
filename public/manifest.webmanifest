@@ -1,6 +1,6 @@
 {
   "name": "AL-Muttaqin Connect",
-  "short_name": "ALM Connect",
+  "short_name": "AL-Muttaqin App",
   "description": "Panel kontrol pengaturan display masjid untuk pengisian Google Form terintegrasi.",
   "start_url": "/",
   "display": "standalone",
