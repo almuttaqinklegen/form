@@ -56,6 +56,18 @@ const FORM_ITEMS: FormItem[] = [
     icon: FileText,
   },
   {
+  title: "Laporan Kas Renovasi",
+  info: "Update Kas Masuk & Kas Keluar Renovasi",
+  url: "https://forms.gle/nMKGgZ5iNLRMBVwD7",
+  icon: BadgeInfo,
+},
+{
+  title: "Perincian Kas Renovasi",
+  info: "Update Informasi Perincian Kas Renovasi",
+  url: "https://forms.gle/TWJanKPupkdeFock6",
+  icon: BadgeInfo,
+},
+  {
     title: "Jadwal Khatib Jum'at",
     info: "Data yang ditampilkan hanya data yang terbaru.",
     url: "https://forms.gle/GQDxLaEnRDjo2pvB7",
