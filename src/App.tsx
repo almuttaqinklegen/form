@@ -70,7 +70,6 @@ const FORM_ITEMS: FormItem[] = [
   {
     title: "Jadwal Khatib Jum'at",
     info: "Jadwal Khatib 
-
 Jum'at Wage & Legi = Ustadz Abu Sholeh
 Jum'at Kliwon      = Ustadz Abu Husein
 Jum'at Pon & Pahing= Ustadz Mundir.",
