@@ -69,7 +69,11 @@ const FORM_ITEMS: FormItem[] = [
 },
   {
     title: "Jadwal Khatib Jum'at",
-    info: "Data yang ditampilkan hanya data yang terbaru.",
+    info: "Jadwal Khatib 
+
+Jum'at Wage & Legi = Ustadz Abu Sholeh
+Jum'at Kliwon      = Ustadz Abu Husein
+Jum'at Pon & Pahing= Ustadz Mundir.",
     url: "https://forms.gle/GQDxLaEnRDjo2pvB7",
     icon: Calendar,
   },
