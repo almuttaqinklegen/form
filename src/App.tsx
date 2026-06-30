@@ -70,9 +70,9 @@ const FORM_ITEMS: FormItem[] = [
   {
     title: "Jadwal Khatib Jum'at",
     info: "Jadwal Khatib 
-Jum'at Wage & Legi = Ustadz Abu Sholeh
-Jum'at Kliwon      = Ustadz Abu Husein
-Jum'at Pon & Pahing= Ustadz Mundir.",
+Jumat Wage & Legi =Ustadz Abu Sholeh
+Jumat Kliwon      =Ustadz Abu Husein
+Jumat Pon & Pahing=Ustadz Mundir.",
     url: "https://forms.gle/GQDxLaEnRDjo2pvB7",
     icon: Calendar,
   },
